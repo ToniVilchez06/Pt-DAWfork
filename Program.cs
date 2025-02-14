@@ -7,16 +7,16 @@ class Program
     {
 <<<<<<< Updated upstream
         // Crear un objecte Vehicle
-        Vehicle vehicle1 = new Vehicle("Cooper", "Mini", 2020, 220.0);
+        Cotxe cotxe1 = new Cotxe("Cooper", "Mini", 2020, 220.0, 5);
 
         // Mostrar la informació del vehicle
-        vehicle1.MostrarInformacio();
+        cotxe1.MostrarInformacio();
 
         // Crear un altre objecte Vehicle
-        Vehicle vehicle2 = new Vehicle("A3", "Audi", 2006, 210.0);
+        Cotxe cotxe2 = new Cotxe("A3", "Audi", 2006, 210.0, 3);
         
         // Mostrar la informació del segon vehicle
-        vehicle2.MostrarInformacio();
+        cotxe2.MostrarInformacio();
 =======
          // Crear llistes per a cada tipus de vehicle
         List<Vaixell> vaixells = new List<Vaixell>
