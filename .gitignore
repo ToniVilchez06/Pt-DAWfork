@@ -15,3 +15,8 @@ ehthumbs.db
 *.suo
 *.userosscache
 *.sln.docstates
+# Claus
+id_rsa
+id_rsa.pub
+id_rsa_marc
+id_rsa_marc.pub
